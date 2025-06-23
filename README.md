@@ -26,7 +26,8 @@ flutter doctor
 flutter create notes_app
 cd notes_app
 ```
-```Структура проекта
+Структура проекта
+```
 lib/
 ├── main.dart          # Точка входа
 ├── models/            # Модели данных
