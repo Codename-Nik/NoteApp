@@ -4,7 +4,7 @@
 ## Необходимые инструменты:
 Flutter SDK - основной фреймворк
 
-- Android Studio или Visual Studio Code - среда разработки
+- Android Studio(Xcode - если у вас MacOS) или Visual Studio Code - среда разработки
 
 - Эмулятор Android/iOS или физическое устройство для тестирования
 
